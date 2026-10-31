@@ -1,4 +1,4 @@
-name: Build Driver Pro APK
+.name: Build Driver Pro APK
 
 on:
 workflow_dispatch:
